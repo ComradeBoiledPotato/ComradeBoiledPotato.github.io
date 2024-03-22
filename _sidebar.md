@@ -1,5 +1,5 @@
-[Home](https://comradeboiledpotato.github.io/#/)
+[Home](/)
 
-[Analog chips in ML](https://comradeboiledpotato.github.io/#/Post1.md)
+[Analog chips in ML](Post1.md "Analog chips in ML")
 
 
