@@ -4,7 +4,7 @@
 https://comradeboiledpotato.github.io/#/Post1
 
 **The neuronchip:**
-*not finished yet*
+https://comradeboiledpotato.github.io/#/Post2
 
 
 
